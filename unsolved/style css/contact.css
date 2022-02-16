@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  margin-top: 2%;
+  margin-bottom: 2% ;
+  padding-top: 13%;
+  padding-bottom: 13%;
+}
+.spacer{
+  height: fit-content;
+}
+.email {
+  border-radius: 2%;
+  background-color: #D3F8E2;
+  -webkit-border-radius: 2%;
+  -moz-border-radius: 2%;
+  -ms-border-radius: 2%;
+  -o-border-radius: 2%;
+}
+
+.navbar {
+  background-color: #37393A;
+}
