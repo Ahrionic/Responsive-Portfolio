@@ -19,7 +19,7 @@
   N/a
   ***
   ## Visual Presentation
-  ![VisualPresentation](images/portfolio.jpg)
+  ![VisualPresentation](image/portfolio.jpg)
   ***
   ## Installation
   N/a
